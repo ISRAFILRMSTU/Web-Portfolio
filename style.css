@@ -27,10 +27,22 @@ section{
     height: 500px;
 }
 .button-1{
-    height: 30px;
+    height: 40px;
+    width: 80px ;
     background-color:orange;
     color: white;
     border: 0px;
     border-radius: 5px;
+    background-image: linear-gradient(lightSalmon,tomato);
     
+}
+.button-2{
+    height: 40px;
+    width: 150px ;
+    background-color:orange;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    background-image: linear-gradient(lightSalmon,tomato);
+
 }
